@@ -13,6 +13,7 @@ This project aims to predict the selling price of used vehicles using advanced d
 - [Conclusion](#conclusion)
 - [Dependencies](#dependencies)
 - [How to Run the Project](#how-to-run-the-project)
+- [Project Report](#project-report)
 
 ## Project Objective
 
@@ -101,3 +102,9 @@ The main libraries used are:
    ```
 
 4. Follow the steps in the notebook to perform data analysis and visualisation, model fitting, and result evaluation.
+
+### Project Report
+
+A detailed project report is available in this repository as a PDF file. The report is written in Portuguese and provides an in-depth explanation of the project's objectives, methodology, data analysis, model evaluations, and results.
+
+You can access the report [here](Relatório_CD.pdf).
